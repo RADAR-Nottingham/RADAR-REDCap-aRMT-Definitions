@@ -44,7 +44,7 @@
         "required_field": "",
         "custom_alignment": "",
         "question_number": "",
-        "matrix_group_name": "eudaimonia1",
+        "matrix_group_name": "eudaimonia",
         "matrix_ranking": "",
         "field_annotation": "range-type",
         "evaluated_logic": ""
@@ -94,7 +94,7 @@
         "required_field": "",
         "custom_alignment": "",
         "question_number": "",
-        "matrix_group_name": "eudaimonia1",
+        "matrix_group_name": "eudaimonia",
         "matrix_ranking": "",
         "field_annotation": "range-type",
         "evaluated_logic": ""
@@ -144,7 +144,7 @@
         "required_field": "",
         "custom_alignment": "",
         "question_number": "",
-        "matrix_group_name": "eudaimonia1",
+        "matrix_group_name": "eudaimonia",
         "matrix_ranking": "",
         "field_annotation": "range-type",
         "evaluated_logic": ""
