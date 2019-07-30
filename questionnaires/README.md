@@ -1,5 +1,5 @@
-phq8 is eudaimonia
+phq8: Eudaimonia questionnaire
 
-rses is socialid
+rses: Contact with social group members 
 
-esm is socialgroup
+esm:  Social identification 
