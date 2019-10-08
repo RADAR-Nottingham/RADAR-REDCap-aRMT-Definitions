@@ -200,14 +200,14 @@
         "text_validation_min": "",
         "text_validation_max": "",
         "identifier": "",
-        "branching_logic": "[socialgroup_around_people] = '1'",
+        "branching_logic": "[socialgroup_around_people(1)] = \"1\"",
         "required_field": "",
         "custom_alignment": "",
         "question_number": "",
         "matrix_group_name": "esm",
         "matrix_ranking": "",
         "field_annotation": "",
-        "evaluated_logic": ""
+        "evaluated_logic":  "responses['socialgroup_around_people'] == 1 ""
     },
 	{
         "field_name": "socialid_group",
@@ -230,14 +230,14 @@
         "text_validation_min": "",
         "text_validation_max": "",
         "identifier": "",
-        "branching_logic": "[socialgroup_around_people] = '1'",
+        "branching_logic": "[socialgroup_around_people(1)] = \"1\"",
         "required_field": "",
         "custom_alignment": "",
         "question_number": "",
         "matrix_group_name": "esm",
         "matrix_ranking": "",
         "field_annotation": "",
-        "evaluated_logic": ""
+        "evaluated_logic":  "responses['socialgroup_around_people'] == 1 ""
     },
 	{
         "field_name": "socialid_supported",
@@ -260,14 +260,14 @@
         "text_validation_min": "",
         "text_validation_max": "",
         "identifier": "",
-        "branching_logic": "[socialgroup_around_people] = '1'",
+        "branching_logic": "[socialgroup_around_people(1)] = \"1\"",
         "required_field": "",
         "custom_alignment": "",
         "question_number": "",
         "matrix_group_name": "esm",
         "matrix_ranking": "",
         "field_annotation": "",
-        "evaluated_logic": ""
+        "evaluated_logic":  "responses['socialgroup_around_people'] == 1 ""
     },
     {
         "field_name": "socialid_ties",
@@ -310,14 +310,14 @@
         "text_validation_min": "",
         "text_validation_max": "",
         "identifier": "",
-        "branching_logic": "[socialgroup_around_people] = '1'",
+        "branching_logic": "[socialgroup_around_people(1)] = \"1\"",
         "required_field": "",
         "custom_alignment": "",
         "question_number": "",
         "matrix_group_name": "esm",
         "matrix_ranking": "",
         "field_annotation": "range-type",
-        "evaluated_logic": ""
+        "evaluated_logic":  "responses['socialgroup_around_people'] == 1 ""
     },
     {
         "field_name": "socialid_identify",
@@ -360,13 +360,13 @@
         "text_validation_min": "",
         "text_validation_max": "",
         "identifier": "",
-        "branching_logic": "[socialgroup_around_people] = '1'",
+        "branching_logic": "[socialgroup_around_people(1)] = \"1\"",
         "required_field": "",
         "custom_alignment": "",
         "question_number": "",
         "matrix_group_name": "esm",
         "matrix_ranking": "",
         "field_annotation": "range-type",
-        "evaluated_logic": ""
+        "evaluated_logic": "responses['socialgroup_around_people'] == 1 ""
     }
 ]
