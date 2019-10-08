@@ -267,7 +267,7 @@
         "matrix_group_name": "esm",
         "matrix_ranking": "",
         "field_annotation": "",
-        "evaluated_logic":  "responses['socialgroup_around_people'] == 1 ""
+        "evaluated_logic":  "responses['socialgroup_around_people'] == 1 "
     },
     {
         "field_name": "socialid_ties",
