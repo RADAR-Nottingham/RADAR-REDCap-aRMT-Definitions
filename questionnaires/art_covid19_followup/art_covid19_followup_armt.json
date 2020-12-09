@@ -27,6 +27,26 @@
         "field_type": "radio",
         "field_label": "Mood scale ",
         "select_choices_or_calculations": [
+	    {
+                "code": "10",
+                "label": "10 statement"
+            },
+		{
+                "code": "9",
+                "label": "9 statement"
+            },
+		{
+                "code": "8",
+                "label": "8 statement"
+            },
+		{
+                "code": "7",
+                "label": "7 statement"
+            },
+		{
+                "code": "6",
+                "label": "6 statement"
+            },
             {
                 "code": "5",
                 "label": "5 statement"
