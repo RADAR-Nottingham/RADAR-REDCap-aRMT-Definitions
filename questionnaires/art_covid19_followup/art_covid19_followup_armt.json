@@ -83,6 +83,68 @@
         "evaluated_logic": ""
     },
 	{
+        "field_name": "follow_inventory1",
+        "form_name": "art_covid19_followup",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "Please click the one response that best describe you for the past seven days",
+        "select_choices_or_calculations": [
+	    {
+                "code": "10",
+                "label": "10 statement"
+            },
+		{
+                "code": "9",
+                "label": "9 statement"
+            },
+		{
+                "code": "8",
+                "label": "8 statement"
+            },
+		{
+                "code": "7",
+                "label": "7 statement"
+            },
+		{
+                "code": "6",
+                "label": "6 statement"
+            },
+            {
+                "code": "5",
+                "label": "5 statement"
+            },
+            {
+                "code": "4",
+                "label": "4 statement"
+            },
+            {
+                "code": "3",
+                "label": "3 statement"
+            },
+            {
+                "code": "2",
+                "label": "2 statement"
+            },
+            {
+                "code": "1",
+                "label": "1 statement"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "y",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+	{
         "field_name": "follow_feeling_today",
         "form_name": "art_covid19_followup",
         "section_header": "",
