@@ -21,6 +21,48 @@
         "evaluated_logic": ""
     },
 	{
+        "field_name": "follow_mood",
+        "form_name": "art_covid19_followup",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "In the last two weeks, have you worked or studied at home due to Covid-19 (Coronavirus)? ",
+        "select_choices_or_calculations": [
+            {
+                "code": "1",
+                "label": "Full-time "
+            },
+            {
+                "code": "2",
+                "label": "Part-time at home and part-time at my usual work/study place "
+            },
+            {
+                "code": "3",
+                "label": "Not at all (full time at my usual work/study place) "
+            },
+            {
+                "code": "4",
+                "label": "Not currently working due to Coronavirus "
+            },
+            {
+                "code": "5",
+                "label": "Not applicable"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "y",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+	{
         "field_name": "follow_feeling_today",
         "form_name": "art_covid19_followup",
         "section_header": "",
