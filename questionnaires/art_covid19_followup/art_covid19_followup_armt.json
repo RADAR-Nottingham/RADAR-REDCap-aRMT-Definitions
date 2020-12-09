@@ -21,6 +21,56 @@
         "evaluated_logic": ""
     },
 	{
+        "field_name": "follow_feeling_today",
+        "form_name": "art_covid19_followup",
+        "section_header": "",
+        "field_type": "range",
+        "field_label": "How are you feeling today?",
+        "select_choices_or_calculations": [
+            {
+                "code": "1",
+                "label": "1 Low"
+            },
+            {
+                "code": "2",
+                "label": "2 "
+            },
+            {
+                "code": "3",
+                "label": "3 "
+            },
+            {
+                "code": "4",
+                "label": "4 "
+            },
+            {
+                "code": "5",
+                "label": "5 "
+            },
+            {
+                "code": "6",
+                "label": "6 "
+            },
+            {
+                "code": "7",
+                "label": "7 Happy"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "",
+        "matrix_ranking": "",
+        "field_annotation": "range-type",
+        "evaluated_logic": ""
+    },
+	{
         "field_name": "notes_journaling",
         "form_name": "art_covid19_followup",
         "section_header": "",
