@@ -25,49 +25,25 @@
         "form_name": "art_covid19_followup",
         "section_header": "",
         "field_type": "ratio",
-        "field_label": "Has anyone you live with had any of the following symptoms in the past two weeks? Select all that are applicable. ",
+        "field_label": "Mood scale ",
         "select_choices_or_calculations": [
             {
-                "code": "10",
-                "label": "10 Statement "
-            },
-            {
-                "code": "9",
-                "label": "9 Statement "
-            },
-            {
-                "code": "8",
-                "label": "8 Statement "
-            },
-            {
-                "code": "7",
-                "label": "7 Statement "
-            },
-			{
-                "code": "6",
-                "label": "6 Statement "
-            },
-			{
-                "code": "5",
-                "label": "5 Statement "
-            },
-			{
                 "code": "4",
                 "label": "4 Statement "
             },
-			{
+	    {
                 "code": "3",
                 "label": "3 Statement "
             },
-			{
+	    {
                 "code": "2",
                 "label": "2 Statement "
             },
-			{
+            {
                 "code": "1",
                 "label": "1 Statement "
             },
-			{
+	    {
                 "code": "0",
                 "label": "0 Statement "
             }
