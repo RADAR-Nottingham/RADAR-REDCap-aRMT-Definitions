@@ -1,10 +1,10 @@
 [
      {
         "field_name": "follow_medication",
-        "form_name": "art_covid19_followup",
+        "form_name": "rses",
         "section_header": "",
         "field_type": "yesno",
-        "field_label": "Have you taken your AM/PM does of X, Y, Z?",
+        "field_label": "Have you taken your PM does of X, Y, Z?",
         "select_choices_or_calculations": "",
         "field_note": "",
         "text_validation_type_or_show_slider_number": "",
@@ -22,7 +22,7 @@
     },
 	{
         "field_name": "follow_mood",
-        "form_name": "art_covid19_followup",
+        "form_name": "rses",
         "section_header": "",
         "field_type": "radio",
         "field_label": "Mood scale ",
@@ -84,7 +84,7 @@
     },
 	{
         "field_name": "follow_inventory1",
-        "form_name": "art_covid19_followup",
+        "form_name": "rses",
         "section_header": "",
         "field_type": "radio",
         "field_label": "Please click the one response that best describe you for the past seven days",
@@ -146,7 +146,7 @@
     },
 	{
         "field_name": "follow_inventory2",
-        "form_name": "art_covid19_followup",
+        "form_name": "rses",
         "section_header": "",
         "field_type": "radio",
         "field_label": "Quick inventory 2",
@@ -208,7 +208,7 @@
     },
 	{
         "field_name": "follow_inventory3",
-        "form_name": "art_covid19_followup",
+        "form_name": "rses",
         "section_header": "",
         "field_type": "radio",
         "field_label": "Quick inventory 3",
@@ -270,7 +270,7 @@
     },
 	{
         "field_name": "follow_feeling_today",
-        "form_name": "art_covid19_followup",
+        "form_name": "rses",
         "section_header": "",
         "field_type": "range",
         "field_label": "How are you feeling today?",
@@ -320,7 +320,7 @@
     },
 	{
         "field_name": "notes_journaling",
-        "form_name": "art_covid19_followup",
+        "form_name": "rses",
         "section_header": "",
         "field_type": "text",
         "field_label": "Please add notes for today if any",
