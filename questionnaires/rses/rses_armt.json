@@ -1,6 +1,6 @@
 [
      {
-        "field_name": "follow_medication",
+        "field_name": "follow_medicationPM",
         "form_name": "rses",
         "section_header": "",
         "field_type": "yesno",
