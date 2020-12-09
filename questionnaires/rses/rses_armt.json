@@ -293,15 +293,7 @@
             },
             {
                 "code": "5",
-                "label": "5 "
-            },
-            {
-                "code": "6",
-                "label": "6 "
-            },
-            {
-                "code": "7",
-                "label": "7 Happy"
+                "label": "5 Happy"
             }
         ],
         "field_note": "",
