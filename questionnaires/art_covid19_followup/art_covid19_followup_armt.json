@@ -154,7 +154,7 @@
     },
 	{
         "field_name": "follow_feeling_today",
-        "form_name": ""art_covid19_followup"",
+        "form_name": "art_covid19_followup",
         "section_header": "",
         "field_type": "range",
         "field_label": "How are you feeling today?",
