@@ -1,4 +1,5 @@
- {
+[
+     {
         "field_name": "follow_medication",
         "form_name": "art_covid19_followup",
         "section_header": "",
@@ -221,4 +222,5 @@
         "matrix_ranking": "",
         "field_annotation": "",
         "evaluated_logic": ""
-    },
+    }
+]
