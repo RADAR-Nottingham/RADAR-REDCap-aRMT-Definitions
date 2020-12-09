@@ -21,33 +21,12 @@
         "evaluated_logic": ""
     },
 	{
-        "field_name": "follow_mood",
+        "field_name": "notes_journaling",
         "form_name": "art_covid19_followup",
         "section_header": "",
-        "field_type": "range",
-        "field_label": "Mood scale ",
-        "select_choices_or_calculations": [
-            {
-                "code": "4",
-                "label": "4 Statement "
-            },
-	    {
-                "code": "3",
-                "label": "3 Statement "
-            },
-	    {
-                "code": "2",
-                "label": "2 Statement "
-            },
-            {
-                "code": "1",
-                "label": "1 Statement "
-            },
-	    {
-                "code": "0",
-                "label": "0 Statement "
-            }
-        ],
+        "field_type": "text",
+        "field_label": "Please add notes for today if any",
+        "select_choices_or_calculations": "",
         "field_note": "",
         "text_validation_type_or_show_slider_number": "",
         "text_validation_min": "",
