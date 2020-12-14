@@ -1,26 +1,5 @@
 [
      {
-        "field_name": "follow_medicationPM",
-        "form_name": "rses",
-        "section_header": "",
-        "field_type": "yesno",
-        "field_label": "Have you taken your PM does of X, Y, Z?",
-        "select_choices_or_calculations": "",
-        "field_note": "",
-        "text_validation_type_or_show_slider_number": "",
-        "text_validation_min": "",
-        "text_validation_max": "",
-        "identifier": "",
-        "branching_logic": "",
-        "required_field": "",
-        "custom_alignment": "",
-        "question_number": "",
-        "matrix_group_name": "",
-        "matrix_ranking": "",
-        "field_annotation": "",
-        "evaluated_logic": ""
-    },
-	{
         "field_name": "follow_mood",
         "form_name": "rses",
         "section_header": "",
@@ -28,44 +7,48 @@
         "field_label": "Mood scale ",
         "select_choices_or_calculations": [
 	    {
+                "code": "11",
+                "label": "10 Total loss of judgement, exorbitant spending, religious delusions and hallucinations."
+            },
+		{
                 "code": "10",
-                "label": "10 statement"
+                "label": "9 Lost touch with reality, incoherent, no sleep, paranoid and vindictive, reckless behaviour."
             },
 		{
                 "code": "9",
-                "label": "9 statement"
+                "label": "8 Inflated self-esteem, rapid thoughts and speech, counterproductive simultaneous tasks."
             },
 		{
                 "code": "8",
-                "label": "8 statement"
+                "label": "7 Very productive, everything to excess (phone calls, writing, smoking, tea) charming and talkative."
             },
 		{
                 "code": "7",
-                "label": "7 statement"
+                "label": "6 Self-esteem good, optimistic, sociable and articulate, good decisions and get work done."
             },
-		{
+            {
                 "code": "6",
-                "label": "6 statement"
+                "label": "5 Mood in balance, no symptoms of depression or mania. Life is going well and the outlook is good."
             },
             {
                 "code": "5",
-                "label": "5 statement"
+                "label": "4 Slight withdrawal from social situations, concrentration less than usual, slight agitation."
             },
             {
                 "code": "4",
-                "label": "4 statement"
+                "label": "3 Feelings of panic and anxiety, concentration difficult and memory poor, some comfort in routine."
             },
             {
                 "code": "3",
-                "label": "3 statement"
+                "label": "2 Slow thinking, no appetite, need to be alone, sleep excessive or difficut, everything a struggle."
             },
             {
                 "code": "2",
-                "label": "2 statement"
+                "label": "1 Feelings of hopelessness and guilt, thoughts of suicide, little movement, impossible to do anything."
             },
-            {
+	    {
                 "code": "1",
-                "label": "1 statement"
+                "label": "0 Endless suicidal thoughts, no way out, no movement, everything is bleak and it will always be like this."
             }
         ],
         "field_note": "",
@@ -83,51 +66,103 @@
         "evaluated_logic": ""
     },
 	{
-        "field_name": "follow_inventory1",
+        "field_name": "follow_QIDS1",
         "form_name": "rses",
         "section_header": "",
         "field_type": "radio",
-        "field_label": "Please click the one response that best describe you for the past seven days",
+        "field_label": "Please click the one response that best describe you for the past seven days: 1. Falling Asleep:",
         "select_choices_or_calculations": [
 	    {
-                "code": "10",
-                "label": "10 statement"
-            },
-		{
-                "code": "9",
-                "label": "9 statement"
-            },
-		{
-                "code": "8",
-                "label": "8 statement"
-            },
-		{
-                "code": "7",
-                "label": "7 statement"
-            },
-		{
-                "code": "6",
-                "label": "6 statement"
-            },
-            {
-                "code": "5",
-                "label": "5 statement"
-            },
-            {
-                "code": "4",
-                "label": "4 statement"
-            },
-            {
-                "code": "3",
-                "label": "3 statement"
-            },
-            {
-                "code": "2",
-                "label": "2 statement"
-            },
-            {
                 "code": "1",
-                "label": "1 statement"
+                "label": "0 I never take longer than 30 minutes to fall asleep."
+            },
+		{
+                "code": "2",
+                "label": "1 I take at least 30 minutes to fall asleep, less than half the time."
+            },
+		{
+                "code": "3",
+                "label": "2 I take at least 30 minutes to fall asleep, more than half the time."
+            },
+		{
+                "code": "4",
+                "label": "3 I take more than 60 minutes to fall asleep, more than half the time."
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "y",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+	{
+        "field_name": "follow_QIDS2",
+        "form_name": "rses",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "2. Sleep During the Night",
+        "select_choices_or_calculations": [
+	    {
+                "code": "1",
+                "label": "0 I do not wake up at night."
+            },
+		{
+                "code": "2",
+                "label": "1 I have a restless, light sleep with a few brief awakenings each night."
+            },
+		{
+                "code": "3",
+                "label": "2 I wake up at least once a night, but I go back to sleep easily."
+            },
+		{
+                "code": "4",
+                "label": "3 I awaken more than once a night and stay awake for 20 minutes or more, more than half the time."
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "y",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+	{
+        "field_name": "follow_QIDS3",
+        "form_name": "rses",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "3. Waking Up Too Early",
+        "select_choices_or_calculations": [
+	    {
+                "code": "1",
+                "label": "0 I have a restless, light sleep with a few brief awakenings each night."
+            },
+		{
+                "code": "2",
+                "label": "1 More than half the time, I awaken more than 30 minutes before I need to get up."
+            },
+		{
+                "code": "3",
+                "label": "2 I almost always awaken at least one hour or so before I need to, but I go back to sleep eventually."
+            },
+		{
+                "code": "4",
+                "label": "3 I awaken at least one hour before I need to, and can't go back to sleep."
             }
         ],
         "field_note": "",
