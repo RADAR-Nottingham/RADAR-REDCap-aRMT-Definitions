@@ -529,8 +529,23 @@
 		{
                 "code": "4",
                 "label": "3 I really cannot carry out most of my usual daily activities because I just don't have the energy."
-            },
-		{
+            }
+		],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "y",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+	{
         "field_name": "follow_QIDS13",
         "form_name": "rses",
         "section_header": "",
