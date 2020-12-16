@@ -255,7 +255,106 @@
         "field_annotation": "",
         "evaluated_logic": ""
     },
-	
+	{
+        "field_name": "follow_QIDS6",
+        "form_name": "rses",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "6. Appetite change",
+        "select_choices_or_calculations": [
+	    {
+                "code": "1",
+                "label": "0 There is no change in my usual appetite."
+            },
+		{
+                "code": "2",
+                "label": "1 I eat somewhat less often or lesser amounts of food than usual."
+            },
+		{
+                "code": "3",
+                "label": "2 I eat much less than usual and only with personal effort."
+            },
+		{
+                "code": "4",
+                "label": "3 I rarely eat within a 24-hour period, and only with extreme personal effort or when others persuade me to eat."
+            },
+		{
+                "code": "5",
+                "label": "4  I feel a need to eat more frequently than usual."
+            },
+		{
+                "code": "6",
+                "label": "5 I regularly eat more often and/or greater amounts of food than usual."
+            },
+		{
+                "code": "7",
+                "label": "6 I feel driven to overeat both at mealtime and between meals."
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "y",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+	{
+        "field_name": "follow_QIDS7",
+        "form_name": "rses",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "7. Weight change (Within the Last Two Weeks):",
+        "select_choices_or_calculations": [
+	    {
+                "code": "1",
+                "label": "0 I have not had a change in my weight."
+            },
+		{
+                "code": "2",
+                "label": "1 I feel as if I have had a slight weight loss."
+            },
+		{
+                "code": "3",
+                "label": "2 I have lost 2 pounds or more."
+            },
+		{
+                "code": "4",
+                "label": "3 I have lost 5 pounds or more."
+            },
+		{
+                "code": "5",
+                "label": "4  I feel as if I have had a slight weight gain."
+            },
+		{
+                "code": "6",
+                "label": "5 I have gained 2 pounds or more."
+            },
+		{
+                "code": "7",
+                "label": "6 I I have gained 5 pounds or more."
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "y",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
 	{
         "field_name": "follow_inventory2",
         "form_name": "rses",
