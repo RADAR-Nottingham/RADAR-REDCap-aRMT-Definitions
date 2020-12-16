@@ -356,6 +356,82 @@
         "evaluated_logic": ""
     },
 	{
+        "field_name": "follow_QIDS8",
+        "form_name": "rses",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "8. Concentration / Decision Making:",
+        "select_choices_or_calculations": [
+	    {
+                "code": "1",
+                "label": "0 There is no change in my usual capacity to concentrate or make decisions."
+            },
+		{
+                "code": "2",
+                "label": "1 I occasionally feel indecisive or find that my attention wanders."
+            },
+		{
+                "code": "3",
+                "label": "2 Most of the time, I struggle to focus my attention or to make decisions."
+            },
+		{
+                "code": "4",
+                "label": "3 I cannot concentrate well enough to read or cannot make even minor decisions."
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "y",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+	{
+        "field_name": "follow_QIDS9",
+        "form_name": "rses",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "9. View of Myself:",
+        "select_choices_or_calculations": [
+	    {
+                "code": "1",
+                "label": "0 I see myself as equally worthwhile and deserving as other people."
+            },
+		{
+                "code": "2",
+                "label": "1 I am more self-blaming than usual."
+            },
+		{
+                "code": "3",
+                "label": "2 I largely believe that I cause problems for others."
+            },
+		{
+                "code": "4",
+                "label": "3 I think almost constantly about major and minor defects in myself."
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "y",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },	
+	{
         "field_name": "follow_inventory2",
         "form_name": "rses",
         "section_header": "",
