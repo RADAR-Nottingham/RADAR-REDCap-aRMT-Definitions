@@ -584,6 +584,44 @@
         "evaluated_logic": ""
     },
 	{
+        "field_name": "follow_QIDS14",
+        "form_name": "rses",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "14.   Feeling Restless:",
+        "select_choices_or_calculations": [
+	    {
+                "code": "1",
+                "label": "0 I do not feel restless."
+            },
+		{
+                "code": "2",
+                "label": "1 I'm often fidgety, wringing my hands, or need to shift how I am sitting."
+            },
+		{
+                "code": "3",
+                "label": "2 I have impulses to move about and am quite restless."
+            },
+		{
+                "code": "4",
+                "label": "3 At times, I am unable to stay seated and need to pace around."
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "y",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+	{
         "field_name": "follow_inventory2",
         "form_name": "rses",
         "section_header": "",
