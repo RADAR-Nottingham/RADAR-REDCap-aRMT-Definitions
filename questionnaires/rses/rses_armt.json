@@ -432,6 +432,82 @@
         "evaluated_logic": ""
     },	
 	{
+        "field_name": "follow_QIDS10",
+        "form_name": "rses",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "10. Thoughts of Death or Suicide:",
+        "select_choices_or_calculations": [
+	    {
+                "code": "1",
+                "label": "0 I do not think of suicide or death."
+            },
+		{
+                "code": "2",
+                "label": "1 I feel that life is empty or wonder if it's worth living."
+            },
+		{
+                "code": "3",
+                "label": "2 I think of suicide or death several times a week for several minutes."
+            },
+		{
+                "code": "4",
+                "label": "I think of suicide or death several times a day in some detail, or I have made specific plans for suicide or have actually tried to take my life."
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "y",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+	{
+        "field_name": "follow_QIDS11",
+        "form_name": "rses",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "11.  General Interest",
+        "select_choices_or_calculations": [
+	    {
+                "code": "1",
+                "label": "0 There is no change from usual in how interested I am in other people or activities."
+            },
+		{
+                "code": "2",
+                "label": "1 I notice that I am less interested in people or activities"
+            },
+		{
+                "code": "3",
+                "label": "2 I find I have interest in only one or two of my formerly pursued activities."
+            },
+		{
+                "code": "4",
+                "label": "3 I have virtually no interest in formerly pursued activities."
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "y",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+	{
         "field_name": "follow_inventory2",
         "form_name": "rses",
         "section_header": "",
