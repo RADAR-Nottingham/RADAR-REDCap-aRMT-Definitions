@@ -1372,23 +1372,23 @@
         "select_choices_or_calculations": [
             {
                 "code": "1",
-                "label": "1 ☹️"
+                "label": "☹️"
             },
             {
                 "code": "2",
-                "label": "2 "
+                "label": "🙁"
             },
             {
                 "code": "3",
-                "label": "3 "
+                "label": "😐"
             },
             {
                 "code": "4",
-                "label": "4 "
+                "label": "🙂"
             },
             {
                 "code": "5",
-                "label": "5 Happy"
+                "label": "😃"
             }
         ],
         "field_note": "",
