@@ -16,7 +16,7 @@
             },
 		{
                 "code": "9",
-                "label": "8 Inflated self-esteem, rapid thoughts and speech, counterproductive simultaneous tasks."
+                "label": "8 Inflated self-esteem, rapid thoughts and speech, counter productive simultaneous tasks."
             },
 		{
                 "code": "8",
@@ -32,7 +32,7 @@
             },
             {
                 "code": "5",
-                "label": "4 Slight withdrawal from social situations, concrentration less than usual, slight agitation."
+                "label": "4 Slight withdrawal from social situations, concentration less than usual, slight agitation."
             },
             {
                 "code": "4",
@@ -40,7 +40,7 @@
             },
             {
                 "code": "3",
-                "label": "2 Slow thinking, no appetite, need to be alone, sleep excessive or difficut, everything a struggle."
+                "label": "2 Slow thinking, no appetite, need to be alone, sleep excessive or difficult, everything a struggle."
             },
             {
                 "code": "2",
@@ -836,7 +836,7 @@
         "form_name": "rses",
         "section_header": "",
         "field_type": "radio",
-        "field_label": "Indicahte how much agree or disagree with each statement. 1 I would enjoy my favourite television or radio programme:",
+        "field_label": "Indicate how much agree or disagree with each statement. 1 I would enjoy my favourite television or radio programme:",
         "select_choices_or_calculations": [
 	    {
                 "code": "1",
@@ -1026,7 +1026,7 @@
         "form_name": "rses",
         "section_header": "",
         "field_type": "radio",
-        "field_label": "6 I would find pleasure in the scent of flowers or the smell of a fresh seab reeze or freshly baked bread",
+        "field_label": "6 I would find pleasure in the scent of flowers or the smell of a fresh sea breeze or freshly baked bread",
         "select_choices_or_calculations": [
 	    {
                 "code": "1",
@@ -1216,7 +1216,7 @@
         "form_name": "rses",
         "section_header": "",
         "field_type": "radio",
-        "field_label": "11 I would find pleasurein small things, e.g. bright sunny day, a telephone call from a friend:",
+        "field_label": "11 I would find pleasure in small things, e.g. bright sunny day, a telephone call from a friend:",
         "select_choices_or_calculations": [
 	    {
                 "code": "1",
@@ -1254,7 +1254,7 @@
         "form_name": "rses",
         "section_header": "",
         "field_type": "radio",
-        "field_label": "12 I would be able to enjoy a beautiful landscapeor view:",
+        "field_label": "12 I would be able to enjoy a beautiful landscape or view:",
         "select_choices_or_calculations": [
 	    {
                 "code": "1",
