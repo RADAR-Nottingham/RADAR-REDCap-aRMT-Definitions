@@ -70,7 +70,7 @@
         "form_name": "rses",
         "section_header": "",
         "field_type": "radio",
-        "field_label": "Please click the one response that best describe you for the past seven days: 1. Falling Asleep:",
+        "field_label": "Please click the one response that best describe you for the past seven days:  1. Falling Asleep:",
         "select_choices_or_calculations": [
 	    {
                 "code": "1",
@@ -836,7 +836,7 @@
         "form_name": "rses",
         "section_header": "",
         "field_type": "radio",
-        "field_label": "This questionnaire is designed to measure your ability to experience pleasure in the last few days. Indicate how much you agree or disagree with each statement. 1 I would enjoy my favourite television or radio programme:",
+        "field_label": "This questionnaire is designed to measure your ability to experience pleasure in the last few days. Indicate how much you agree or disagree with each statement.  1. I would enjoy my favourite television or radio programme:",
         "select_choices_or_calculations": [
 	    {
                 "code": "1",
@@ -874,7 +874,7 @@
         "form_name": "rses",
         "section_header": "",
         "field_type": "radio",
-        "field_label": "2 I would enjoy being with my family or close friends",
+        "field_label": "2. I would enjoy being with my family or close friends",
         "select_choices_or_calculations": [
 	    {
                 "code": "1",
@@ -912,7 +912,7 @@
         "form_name": "rses",
         "section_header": "",
         "field_type": "radio",
-        "field_label": "3 I would find pleasure in my hobbies and pastimes",
+        "field_label": "3. I would find pleasure in my hobbies and pastimes",
         "select_choices_or_calculations": [
 	    {
                 "code": "1",
@@ -950,7 +950,7 @@
         "form_name": "rses",
         "section_header": "",
         "field_type": "radio",
-        "field_label": "4 I would be able to enjoy my favourite meal:",
+        "field_label": "4. I would be able to enjoy my favourite meal:",
         "select_choices_or_calculations": [
 	    {
                 "code": "1",
@@ -988,7 +988,7 @@
         "form_name": "rses",
         "section_header": "",
         "field_type": "radio",
-        "field_label": "5 I would enjoy a warm bath or refreshing shower:",
+        "field_label": "5. I would enjoy a warm bath or refreshing shower:",
         "select_choices_or_calculations": [
 	    {
                 "code": "1",
@@ -1026,7 +1026,7 @@
         "form_name": "rses",
         "section_header": "",
         "field_type": "radio",
-        "field_label": "6 I would find pleasure in the scent of flowers or the smell of a fresh sea breeze or freshly baked bread",
+        "field_label": "6. I would find pleasure in the scent of flowers or the smell of a fresh sea breeze or freshly baked bread",
         "select_choices_or_calculations": [
 	    {
                 "code": "1",
@@ -1064,7 +1064,7 @@
         "form_name": "rses",
         "section_header": "",
         "field_type": "radio",
-        "field_label": "7 I would enjoy seeing other people's smiling faces:",
+        "field_label": "7. I would enjoy seeing other people's smiling faces:",
         "select_choices_or_calculations": [
 	    {
                 "code": "1",
@@ -1102,7 +1102,7 @@
         "form_name": "rses",
         "section_header": "",
         "field_type": "radio",
-        "field_label": "8 I would enjoy looking smart when I have made an effort with my appearance:",
+        "field_label": "8. I would enjoy looking smart when I have made an effort with my appearance:",
         "select_choices_or_calculations": [
 	    {
                 "code": "1",
@@ -1140,7 +1140,7 @@
         "form_name": "rses",
         "section_header": "",
         "field_type": "radio",
-        "field_label": "9 I would enjoy reading a book, magazine or newspaper:",
+        "field_label": "9. I would enjoy reading a book, magazine or newspaper:",
         "select_choices_or_calculations": [
 	    {
                 "code": "1",
@@ -1178,7 +1178,7 @@
         "form_name": "rses",
         "section_header": "",
         "field_type": "radio",
-        "field_label": "10 I would enjoy a cup of tea or coffee or my favourite drink:",
+        "field_label": "10. I would enjoy a cup of tea or coffee or my favourite drink:",
         "select_choices_or_calculations": [
 	    {
                 "code": "1",
@@ -1216,7 +1216,7 @@
         "form_name": "rses",
         "section_header": "",
         "field_type": "radio",
-        "field_label": "11 I would find pleasure in small things, e.g. bright sunny day, a telephone call from a friend:",
+        "field_label": "11. I would find pleasure in small things, e.g. bright sunny day, a telephone call from a friend:",
         "select_choices_or_calculations": [
 	    {
                 "code": "1",
@@ -1254,7 +1254,7 @@
         "form_name": "rses",
         "section_header": "",
         "field_type": "radio",
-        "field_label": "12 I would be able to enjoy a beautiful landscape or view:",
+        "field_label": "12. I would be able to enjoy a beautiful landscape or view:",
         "select_choices_or_calculations": [
 	    {
                 "code": "1",
@@ -1292,7 +1292,7 @@
         "form_name": "rses",
         "section_header": "",
         "field_type": "radio",
-        "field_label": "13 I would get pleasure from helping others:",
+        "field_label": "13. I would get pleasure from helping others:",
         "select_choices_or_calculations": [
 	    {
                 "code": "1",
@@ -1330,7 +1330,7 @@
         "form_name": "rses",
         "section_header": "",
         "field_type": "radio",
-        "field_label": "14 I would feel pleasure when I receive praise from other people:",
+        "field_label": "14. I would feel pleasure when I receive praise from other people:",
         "select_choices_or_calculations": [
 	    {
                 "code": "1",
@@ -1388,7 +1388,7 @@
             },
             {
                 "code": "5",
-                "label": "😃"
+                "label": "☺️"
             }
         ],
         "field_note": "",
