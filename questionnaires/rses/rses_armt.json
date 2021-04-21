@@ -150,7 +150,7 @@
         "select_choices_or_calculations": [
 	    {
                 "code": "1",
-                "label": "0 I have a restless, light sleep with a few brief awakenings each night."
+                "label": "Most of the time, I awaken no more than 30 minutes before I need to get up."
             },
 		{
                 "code": "2",
@@ -310,7 +310,7 @@
         "form_name": "rses",
         "section_header": "",
         "field_type": "radio",
-        "field_label": "7. Weight change (Within the Last Two Weeks):",
+        "field_label": "7. Weight change (For the following questions, please consider the last two weeks):",
         "select_choices_or_calculations": [
 	    {
                 "code": "1",
@@ -360,7 +360,7 @@
         "form_name": "rses",
         "section_header": "",
         "field_type": "radio",
-        "field_label": "8. Concentration / Decision Making:",
+        "field_label": "8. Concentration / Decision Making (For the following questions, please consider the last 7 days):",
         "select_choices_or_calculations": [
 	    {
                 "code": "1",
@@ -398,7 +398,7 @@
         "form_name": "rses",
         "section_header": "",
         "field_type": "radio",
-        "field_label": "9. View of Myself:",
+        "field_label": "9. View of Myself (last 7 days):",
         "select_choices_or_calculations": [
 	    {
                 "code": "1",
@@ -436,7 +436,7 @@
         "form_name": "rses",
         "section_header": "",
         "field_type": "radio",
-        "field_label": "10. Thoughts of Death or Suicide:",
+        "field_label": "10. Thoughts of Death or Suicide (last 7 days):",
         "select_choices_or_calculations": [
 	    {
                 "code": "1",
@@ -452,7 +452,7 @@
             },
 		{
                 "code": "4",
-                "label": "I think of suicide or death several times a day in some detail, or I have made specific plans for suicide or have actually tried to take my life."
+                "label": "3 I think of suicide or death several times a day in some detail, or I have made specific plans for suicide or have actually tried to take my life."
             }
         ],
         "field_note": "",
@@ -474,7 +474,7 @@
         "form_name": "rses",
         "section_header": "",
         "field_type": "radio",
-        "field_label": "11.  General Interest",
+        "field_label": "11.  General Interest (last 7 days)",
         "select_choices_or_calculations": [
 	    {
                 "code": "1",
@@ -512,7 +512,7 @@
         "form_name": "rses",
         "section_header": "",
         "field_type": "radio",
-        "field_label": "12.  Energy Level:",
+        "field_label": "12.  Energy Level (last 7 days):",
         "select_choices_or_calculations": [
 	    {
                 "code": "1",
@@ -550,7 +550,7 @@
         "form_name": "rses",
         "section_header": "",
         "field_type": "radio",
-        "field_label": "13.  Feeling Slowed Down:",
+        "field_label": "13.  Feeling Slowed Down (last 7 days):",
         "select_choices_or_calculations": [
 	    {
                 "code": "1",
@@ -588,7 +588,7 @@
         "form_name": "rses",
         "section_header": "",
         "field_type": "radio",
-        "field_label": "14.   Feeling Restless:",
+        "field_label": "14.   Feeling Restless (last 7 days):",
         "select_choices_or_calculations": [
 	    {
                 "code": "1",
@@ -626,7 +626,7 @@
         "form_name": "rses",
         "section_header": "",
         "field_type": "radio",
-        "field_label": "Choose the one statement in each group that best describes the way you have been feeling for the past week. 1 Positive mood",
+        "field_label": "On this questionnaire are groups of five statements; read each group of statements carefully. Choose the one statement in each group that best describes the way you have been feeling for the past week.  1 Positive mood",
         "select_choices_or_calculations": [
 	    {
                 "code": "1",
@@ -836,7 +836,7 @@
         "form_name": "rses",
         "section_header": "",
         "field_type": "radio",
-        "field_label": "Indicate how much agree or disagree with each statement. 1 I would enjoy my favourite television or radio programme:",
+        "field_label": "This questionnaire is designed to measure your ability to experience pleasure in the last few days. Indicate how much you agree or disagree with each statement. 1 I would enjoy my favourite television or radio programme:",
         "select_choices_or_calculations": [
 	    {
                 "code": "1",
@@ -912,7 +912,7 @@
         "form_name": "rses",
         "section_header": "",
         "field_type": "radio",
-        "field_label": "3 I would find pleasure in my hobbies and pastime",
+        "field_label": "3 I would find pleasure in my hobbies and pastimes",
         "select_choices_or_calculations": [
 	    {
                 "code": "1",
@@ -1140,7 +1140,7 @@
         "form_name": "rses",
         "section_header": "",
         "field_type": "radio",
-        "field_label": "9 would enjoy reading a book, magazine or newspaper:",
+        "field_label": "9 I would enjoy reading a book, magazine or newspaper:",
         "select_choices_or_calculations": [
 	    {
                 "code": "1",
