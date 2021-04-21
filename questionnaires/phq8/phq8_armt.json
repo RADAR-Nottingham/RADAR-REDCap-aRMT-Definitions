@@ -4,7 +4,7 @@
         "form_name": "phq8",
         "section_header": "",
         "field_type": "yesno",
-        "field_label": "Have you taken your PM dose of Omeprazole?",
+        "field_label": "Have you taken your AM/PM dose of Omeprazole?",
         "select_choices_or_calculations": "",
         "field_note": "",
         "text_validation_type_or_show_slider_number": "",
