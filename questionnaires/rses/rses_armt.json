@@ -4,7 +4,7 @@
         "form_name": "rses",
         "section_header": "",
         "field_type": "radio",
-        "field_label": <strong>"Bipolar UK Mood Scale. This scale is not meant to be definitive but is an indicator of possible behaviours"</strong>,
+        "field_label": "Bipolar UK Mood Scale. This scale is not meant to be definitive but is an indicator of possible behaviours",
         "select_choices_or_calculations": [
 	    {
                 "code": "11",
