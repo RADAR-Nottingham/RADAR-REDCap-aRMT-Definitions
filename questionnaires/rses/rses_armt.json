@@ -4,7 +4,7 @@
         "form_name": "rses",
         "section_header": "",
         "field_type": "radio",
-        "field_label": "Bipolar UK Mood Scale. This scale is not meant to be definitive but is an indicator of possible behaviours",
+        "field_label":  "Bipolar UK Mood Scale. This scale is not meant to be definitive but is an indicator of possible behaviours",
         "select_choices_or_calculations": [
 	    {
                 "code": "11",
@@ -68,9 +68,9 @@
 	{
         "field_name": "follow_QIDS1",
         "form_name": "rses",
-        "section_header": "Quick Inventory of Depressive Symptomology (QIDS-SR). Check the one response to each item that best describes you for the past seven days:",
+        "section_header": "",
         "field_type": "radio",
-        "field_label": "1. Falling Asleep:",
+        "field_label": "Quick Inventory of Depressive Symptomology (QIDS-SR). Check the one response to each item that best describes you for the past seven days: 1. Falling Asleep:",
         "select_choices_or_calculations": [
 	    {
                 "code": "1",
