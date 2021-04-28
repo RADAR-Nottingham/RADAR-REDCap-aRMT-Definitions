@@ -4,7 +4,7 @@
         "form_name": "phq8",
         "section_header": "",
         "field_type": "yesno",
-        "field_label": "Have you taken your AM/PM dose of Omeprazole?",
+        "field_label": "Have you taken your PM dose of Y?",
         "select_choices_or_calculations": "",
         "field_note": "",
         "text_validation_type_or_show_slider_number": "",
@@ -18,6 +18,48 @@
         "matrix_group_name": "",
         "matrix_ranking": "",
         "field_annotation": "",
+        "evaluated_logic": ""
+    },
+     {
+        "field_name": "follow_feeling_today",
+        "form_name": "rses",
+        "section_header": "",
+        "field_type": "range",
+        "field_label": "How are you feeling today?",
+        "select_choices_or_calculations": [
+            {
+                "code": "1",
+                "label": "�"
+            },
+            {
+                "code": "2",
+                "label": "�"
+            },
+            {
+                "code": "3",
+                "label": "�"
+            },
+            {
+                "code": "4",
+                "label": "�"
+            },
+            {
+                "code": "5",
+                "label": "�"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "",
+        "matrix_ranking": "",
+        "field_annotation": "range-type",
         "evaluated_logic": ""
     }
 ]
