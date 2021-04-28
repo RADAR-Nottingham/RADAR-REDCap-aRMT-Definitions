@@ -1,6 +1,6 @@
 [
      {
-        "field_name": "follow_medicationAM",
+        "field_name": "follow_medicationPM",
         "form_name": "phq8",
         "section_header": "",
         "field_type": "yesno",
