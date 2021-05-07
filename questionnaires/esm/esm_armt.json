@@ -1,7 +1,7 @@
 [
      {
         "field_name": "follow_medicationAM",
-        "form_name": "phq8",
+        "form_name": "esm",
         "section_header": "",
         "field_type": "yesno",
         "field_label": "Have you taken your AM dose of X?",
