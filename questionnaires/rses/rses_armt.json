@@ -666,7 +666,7 @@
 	{
         "field_name": "follow_ASMR2",
         "form_name": "rses",
-        "section_header": "",
+        "section_header": " ",
         "field_type": "radio",
         "field_label": "2. Self-Confidence",
         "select_choices_or_calculations": [
@@ -872,7 +872,7 @@
 	{
         "field_name": "follow_SHAPS2",
         "form_name": "rses",
-        "section_header": "",
+        "section_header": " ",
         "field_type": "radio",
         "field_label": "2. I would enjoy being with my family or close friends",
         "select_choices_or_calculations": [
