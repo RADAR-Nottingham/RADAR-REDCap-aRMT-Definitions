@@ -29,23 +29,23 @@
         "select_choices_or_calculations": [
             {
                 "code": "1",
-                "label": "�"
+                "label": "😀"
             },
             {
                 "code": "2",
-                "label": "�"
+                "label": "🙂"
             },
             {
                 "code": "3",
-                "label": "�"
+                "label": "😐"
             },
             {
                 "code": "4",
-                "label": "�"
+                "label": "🙁"
             },
             {
                 "code": "5",
-                "label": "�"
+                "label": "☹️"
             }
         ],
         "field_note": "",
