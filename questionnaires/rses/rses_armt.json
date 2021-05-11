@@ -2,9 +2,9 @@
      {
         "field_name": "follow_mood",
         "form_name": "rses",
-        "section_header": "",
+        "section_header": "Bipolar UK Mood Scale.",
         "field_type": "radio",
-        "field_label":  "Bipolar UK Mood Scale. This scale is not meant to be definitive but is an indicator of possible behaviours",
+        "field_label":  "This scale is not meant to be definitive but is an indicator of possible behaviours",
         "select_choices_or_calculations": [
 	    {
                 "code": "11",
@@ -68,9 +68,9 @@
 	{
         "field_name": "follow_QIDS1",
         "form_name": "rses",
-        "section_header": "",
+        "section_header": "Quick Inventory of Depressive Symptomology (QIDS-SR). Check the one response to each item that best describes you for the past seven days:",
         "field_type": "radio",
-        "field_label": "Quick Inventory of Depressive Symptomology (QIDS-SR). Check the one response to each item that best describes you for the past seven days: 1. Falling Asleep:",
+        "field_label": "1. Falling Asleep:",
         "select_choices_or_calculations": [
 	    {
                 "code": "1",
@@ -106,7 +106,7 @@
 	{
         "field_name": "follow_QIDS2",
         "form_name": "rses",
-        "section_header": "",
+        "section_header": " ",
         "field_type": "radio",
         "field_label": "2. Sleep During the Night",
         "select_choices_or_calculations": [
@@ -624,9 +624,9 @@
 	{
         "field_name": "follow_ASMR1",
         "form_name": "rses",
-        "section_header": "",
+        "section_header": "Altman Self-Rating Scale for Mania. On this questionnaire are groups of five statements; read each group of statements carefully. Choose the one statement in each group that best describes the way you have been feeling for the past week.",
         "field_type": "radio",
-        "field_label": "Altman Self-Rating Scale for Mania. On this questionnaire are groups of five statements; read each group of statements carefully. Choose the one statement in each group that best describes the way you have been feeling for the past week.  1 Positive mood",
+        "field_label": "1 Positive mood",
         "select_choices_or_calculations": [
 	    {
                 "code": "1",
@@ -834,9 +834,9 @@
 	{
         "field_name": "follow_SHAPS1",
         "form_name": "rses",
-        "section_header": "",
+        "section_header": "The Snaith-Hamilton Pleasure Scale. This questionnaire is designed to measure your ability to experience pleasure in the last few days. Indicate how much you agree or disagree with each statement.",
         "field_type": "radio",
-        "field_label": "The Snaith-Hamilton Pleasure Scale. This questionnaire is designed to measure your ability to experience pleasure in the last few days. Indicate how much you agree or disagree with each statement.  1. I would enjoy my favourite television or radio programme:",
+        "field_label": "1. I would enjoy my favourite television or radio programme:",
         "select_choices_or_calculations": [
 	    {
                 "code": "1",
